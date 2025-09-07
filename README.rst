@@ -68,10 +68,9 @@ CONDA_ACTIVATION_CMD = eval "$(/extra/miniconda3/bin/conda shell.bash hook)"
 **CRYOTIGER_ENV_ACTIVATION** (default = conda activate cryotiger-1.0.0):
 Command to activate the CryoTIGER environment.
 
-Downloaded crYOLO and JANNI general models can be found in the following locations:
+Downloaded models can be found in the following locations:
 
-* ``<SCIPION_HOME>/software/em/cryotiger_model-[model_version]``
-* ``<SCIPION_HOME>/software/em/vimeo_model-[model_version]``
+* ``<SCIPION_HOME>/software/em/cryotiger-[version]/models``
 
 Licensing
 ---------

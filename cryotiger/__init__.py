@@ -27,6 +27,7 @@
 
 import pwem
 import pyworkflow.utils as pwutils
+from pyworkflow import TOMO
 
 from .constants import *
 
@@ -35,6 +36,7 @@ _logo = ""
 _references = ['turonova2024']
 
 class Plugin(pwem.Plugin):
+    _processingField = [TOMO]
 
     @classmethod
     def getCryoTigerEnvActivation(cls):

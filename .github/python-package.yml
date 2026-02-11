@@ -1,4 +1,4 @@
-# Workflow to send master to pypi and tag  the branch:
+# Workflow to send master to pypi and tag the branch:
 # You need to edit FOLDER_WITH_VERSION with the folder that has the __version__ value. 
 
 name: master to pypi with comments and tag
@@ -11,6 +11,7 @@ on:
 
 env:
   FOLDER_WITH_VERSION: cryotiger
+  
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   deploy:

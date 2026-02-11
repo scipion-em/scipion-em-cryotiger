@@ -8,7 +8,7 @@ include LICENSE
 include *.txt
 
 # Include conf file
-include fidder/protocols.conf
+include cryotiger/protocols.conf
 
 # Include templates
-include fidder/templates/*template
+include cryotiger/templates/*template

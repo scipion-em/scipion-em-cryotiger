@@ -90,4 +90,4 @@ Supported versions
 References
 ----------
 
-        * Turonova, B. et al. cryoTIGER: Deep-Learning Based Tilt Interpolation Generator for Enhanced Reconstruction in Cryo Electron Tomography. BioRxiv, 2024.
+        * Majtner, T., Kreysing, J.P., Tuijtel, M.W. et al. cryoTIGER: deep-learning based tilt interpolation generator for enhanced reconstruction in cryo electron tomography. Commun Biol 8, 1443 (2025). https://doi.org/10.1038/s42003-025-08961-5

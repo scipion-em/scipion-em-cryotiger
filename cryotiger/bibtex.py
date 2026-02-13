@@ -26,11 +26,11 @@
 # **************************************************************************
 """
 @article{Turonova2024,
-  title = "cryoTIGER: Deep-Learning Based Tilt Interpolation Generator for Enhanced Reconstruction in Cryo Electron Tomography",
-  author = {Tomas Majtner, Jan Philipp Kreysing, Maarten W.Tuijtel, Sergio Cruz-Leon, Jiasui Liu, Gerhard Hummer, Martin Beck, Beata Turonova},
-  journal = "BioRxiv",
-  year = "2024",
-  doi = "https://doi.org/10.1101/2024.12.17.628939",
-  url = "https://www.biorxiv.org/content/10.1101/2024.12.17.628939v1",
+  title = "cryoTIGER: deep-learning based tilt interpolation generator for enhanced reconstruction in cryo electron tomography",
+  author = {Tomáš Majtner, Jan Philipp Kreysing, Maarten W. Tuijtel, Sergio Cruz-León, Jiasui Liu, Gerhard Hummer, Martin Beck & Beata Turoňová},
+  journal = "Communications Biology (Nature Portfolio)",
+  year = "2025",
+  doi = "https://doi.org/10.1038/s42003-025-08961-5",
+  url = "https://www.nature.com/articles/s42003-025-08961-5",
 }
 """

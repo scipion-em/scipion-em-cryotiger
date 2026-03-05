@@ -33,7 +33,7 @@ from .constants import *
 
 __version__ = '3.0.0'
 _logo = ""
-_references = ['turonova2024']
+_references = ['Majtner2025cryoTIGER']
 
 class Plugin(pwem.Plugin):
     _processingField = [TOMO]
